@@ -1,0 +1,15 @@
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: FACEBOOK
+# ----------------------------------------------------------
+# Copyright (c) 2020 David Gaskin
+# License: Big Ol' Hotdog License
+# ----------------------------------------------------------
+
+0.0.0.0 googlevideo.com
+0.0.0.0 youtu.be
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtube.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 ytimg.com
+0.0.0.0 ytimg.l.google.com
